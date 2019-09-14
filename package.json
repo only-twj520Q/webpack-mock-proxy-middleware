@@ -1,0 +1,24 @@
+{
+  "name": "webpack-mock-proxy-middleware",
+  "version": "1.0.0",
+  "description": "This is dev for support RESTful API, we have mock and proxy",
+  "main": "src/index.js",
+  "keywords": ["webpack-dev-server-middleware", "dev-mock", "dev-proxy"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/only-twj520Q/webpack-mock-proxy-middleware.git"
+  },
+  "author": "twj <onlytwj520qi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^2.4.2",
+    "chokidar": "^3.0.2",
+    "http-proxy-middleware": "^0.19.1",
+    "path-to-regexp": "^3.1.0",
+    "query-string": "^6.8.3"
+  }
+}
